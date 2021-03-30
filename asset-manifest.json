@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rohit-singh-hitman.github.io/csb-e9en4/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://rohit-singh-hitman.github.io/csb-e9en4/static/js/main.a3d24769.chunk.js",
+    "main.js.map": "https://rohit-singh-hitman.github.io/csb-e9en4/static/js/main.a3d24769.chunk.js.map",
+    "runtime-main.js": "https://rohit-singh-hitman.github.io/csb-e9en4/static/js/runtime-main.ea35c215.js",
+    "runtime-main.js.map": "https://rohit-singh-hitman.github.io/csb-e9en4/static/js/runtime-main.ea35c215.js.map",
+    "static/js/2.94e9a857.chunk.js": "https://rohit-singh-hitman.github.io/csb-e9en4/static/js/2.94e9a857.chunk.js",
+    "static/js/2.94e9a857.chunk.js.map": "https://rohit-singh-hitman.github.io/csb-e9en4/static/js/2.94e9a857.chunk.js.map",
+    "index.html": "https://rohit-singh-hitman.github.io/csb-e9en4/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://rohit-singh-hitman.github.io/csb-e9en4/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.94e9a857.chunk.js.LICENSE.txt": "https://rohit-singh-hitman.github.io/csb-e9en4/static/js/2.94e9a857.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea35c215.js",
+    "static/js/2.94e9a857.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a3d24769.chunk.js"
+  ]
+}
